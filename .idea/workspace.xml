@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03762dee-3dfe-4bc5-a936-5ce490fce3f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/InventoryDB.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple E-commerce Inventory Management System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Icons/homepages_home_house_icon_150665.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Icons/menu_icon_48px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Icons/user_icon_150670.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/flatlaf-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/flatlaf-intellij-themes-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jcalendar-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jgoodies-common-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jgoodies-looks-2.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DAO/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DAO/ProductDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DAO/SupplierDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DAO/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DTO/CustomerDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DTO/ProductDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DTO/SupplierDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/DTO/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/Database/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/Database/DBCredentials.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/CurrentStockPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/CustomerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/2849831-account-avatar-interface-multimedia-person-profile-user_107987.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/add_icon_150672.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/homepages_home_house_icon_150665.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/inbox-interface-symbol_icon-icons.com_54509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/log-out_icon-icons.com_50106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/menu_icon_150667.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/menu_icon_48px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/Icons/user_icon_150670.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/PurchasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/SalesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/SupplierPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/UserLogsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/inventory/UI/UsersPage.java" afterDir="false" />
-    </list>
+    <list default="true" id="03762dee-3dfe-4bc5-a936-5ce490fce3f0" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +111,19 @@
       <option name="presentableId" value="Default" />
       <updated>1685194524335</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1685278313519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685278313519</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
